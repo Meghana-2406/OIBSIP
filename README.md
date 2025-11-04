@@ -1,3 +1,7 @@
+OIBSIP - Java Development Internship (AICTE x Oasis Infobyte)
+
+This repository contains the tasks and projects developed during my Java Development Internship with Oasis Infobyte, under the AICTE Virtual Internship Program.
+
 Internship Details
 
 Role: Java Development Intern
