@@ -6,7 +6,7 @@ Internship Details
 
 Role: Java Development Intern
 
-Duration: 5th November 2025 – 15th DEcember 2025
+Duration: 5th November 2025 – 15th December 2025
 
 Mode: Virtual Internship (AICTE x Oasis Infobyte)
 
